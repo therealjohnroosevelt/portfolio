@@ -9,6 +9,7 @@ This repository is structured to support multiple independent projects over time
 | Project | Description | Status |
 |---------|-------------|--------|
 | [InfraAI Assistant](./projects/infraai-assistant/) | AI-assisted infrastructure runbook and incident summarizer | Scaffold |
+| [Public Tech Footprint](./projects/public-tech-footprint/) | Repeatable method for mapping an organization’s public technology posture from open sources | Ready |
 
 ## Structure
 
@@ -16,7 +17,8 @@ This repository is structured to support multiple independent projects over time
 portfolio/
 ├── README.md
 ├── projects/
-│   └── infraai-assistant/     # First project
+│   ├── infraai-assistant/
+│   └── public-tech-footprint/
 └── .gitignore
 ```
 
