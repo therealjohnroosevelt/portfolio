@@ -8,7 +8,7 @@ This repository is structured to support multiple independent projects over time
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [InfraAI Assistant](./projects/infraai-assistant/) | AI-assisted infrastructure runbook and incident summarizer | Scaffold |
+| [InfraAI Assistant](./projects/infraai-assistant/) | AI-assisted infrastructure runbook and incident summarizer | Functional |
 | [Public Tech Footprint](./projects/public-tech-footprint/) | Repeatable method for mapping an organization’s public technology posture from open sources | Ready |
 
 ## Structure
